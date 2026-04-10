@@ -1,0 +1,10 @@
+node_modules/
+.env
+logs/
+memory/jarvis_memory.json
+memory/command_history.json
+memory/scheduled_tasks.json
+voice/_voice_listener.ps1
+*.log
+.DS_Store
+Thumbs.db
